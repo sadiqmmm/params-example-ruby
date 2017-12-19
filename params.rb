@@ -5,7 +5,8 @@ params =
 		"food_menu_id"=>"4", 
 			"line_item_addon_singles_attributes"=>{
 				"1"=>{"line_item_addon_single_items_attributes"=>["5", "7"]}, 
-				"2"=>{"line_item_addon_single_items_attributes"=>["6"]}
+				"2"=>{"line_item_addon_single_items_attributes"=>["6"]},
+				"3"=>{"line_item_addon_single_items_attributes"=>["6", "4"]}
 			}
 	}
 }
